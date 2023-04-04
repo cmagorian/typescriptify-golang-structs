@@ -14,4 +14,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/tkrajina/typescriptify-golang-structs => github.com/cmagorian/typescriptify-golang-structs
+replace github.com/tkrajina/typescriptify-golang-structs => github.com/cmagorian/typescriptify-golang-structs latest
