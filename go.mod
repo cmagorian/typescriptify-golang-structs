@@ -1,11 +1,10 @@
-module github.com/cmagorian/typescriptify-golang-structs
+module github.com/tkrajina/typescriptify-golang-structs
 
 go 1.18
 
 require (
 	github.com/stretchr/testify v1.8.2
 	github.com/tkrajina/go-reflector v0.5.6
-	github.com/tkrajina/typescriptify-golang-structs v0.1.10
 )
 
 require (
