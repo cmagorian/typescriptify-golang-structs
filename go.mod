@@ -1,4 +1,4 @@
-module github.com/tkrajina/typescriptify-golang-structs
+module github.com/cmagorian/typescriptify-golang-structs
 
 go 1.18
 
@@ -12,5 +12,3 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
-
-replace github.com/tkrajina/typescriptify-golang-structs => github.com/cmagorian/typescriptify-golang-structs latest
